@@ -9,7 +9,7 @@ Fall_speed - 0.5
 Shooting_angle - 0
 Shooting_speed - 50
 choose whichever keys are comfortable for you.
-Arm_img - ImageArm
+bone_arm_img - BoneArm
 Hand_img - ImageHand
 Shot_obj - Bullet
 

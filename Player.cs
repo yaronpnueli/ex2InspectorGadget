@@ -34,7 +34,7 @@ namespace Gadget {
 	    // These parameters' types are Unity components, so in the inspector they
 	    // are shown as a field that we can drag a suitable reference to it.
 
-	    public Transform arm_img; //the image for the arm
+	    public Transform bone_arm_img; //the image for the arm
 		public Transform hand_img; //the image for the hand (tip of the arm)
 	    public Rigidbody2D shot_obj; //the shot object
 
